@@ -29,3 +29,35 @@ h1{
     width: 50%;
     padding-left: 50px;
 }
+.second-sec{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.dream-big{
+    width: 50%;
+    padding-left: 20px;
+}
+.dream-big img{
+    width: 80%;
+}
+.exercises-web{
+    width: 50%;
+    padding: 20px;
+    
+}
+section{
+    margin-bottom: 150px;
+}
+.container{
+    display: flex;
+    padding-left: 20px;
+
+    
+}
+.font{
+    font-size: 40px;
+}
+
