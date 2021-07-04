@@ -27,7 +27,7 @@ h1{
 }
 .snow-man{
     width: 50%;
-    padding-left: 50px;
+    padding-left: 90px;
 }
 .second-sec{
     display: flex;
@@ -38,18 +38,22 @@ h1{
 }
 .dream-big{
     width: 50%;
-    padding-left: 20px;
+    padding-left: 40px;
+    padding-right: 20px;
 }
 .dream-big img{
     width: 80%;
 }
 .exercises-web{
     width: 50%;
-    padding: 20px;
+    padding: 40px;
+    box-shadow: 10px 10px 40px grey;
+    margin: 50px;
+    border-radius: 15px;
     
 }
 section{
-    margin-bottom: 150px;
+    margin-bottom: 80px;
 }
 .container{
     display: flex;
@@ -59,5 +63,23 @@ section{
 }
 .font{
     font-size: 40px;
+}
+#sansa{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,aqua);
+    border-image-slice: 1;
+}
+#arya{
+    border-left: 7px solid;
+    border-image: linear-gradient(red,tomato);
+    border-image-slice: 1;
+}
+.third-sec{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer p{
+    text-align: center;
 }
 
